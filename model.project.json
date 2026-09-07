@@ -1,0 +1,22 @@
+{
+	"name": "Campaign",
+	"emitLegacyScripts": false,
+	"tree": {
+		"$className": "Folder",
+		"assets": {
+			"$path": "src/assets"
+		},
+		"server": {
+			"$path": "src/server"
+		},
+		"client": {
+			"$path": "src/client"
+		},
+		"shared": {
+			"$path": "src/shared",
+			"Packages": {
+				"$path": "Packages"
+			}
+		}
+	}
+}

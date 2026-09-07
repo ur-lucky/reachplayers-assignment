@@ -1,0 +1,11 @@
+# Roblox files
+*.rbx[lx]*
+
+# Packages
+/Packages
+
+# Sourcemap
+sourcemap.json
+
+# AI
+AGENTS.md
