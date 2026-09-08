@@ -1,5 +1,6 @@
 # Roblox files
 *.rbx[lx]*
+!/demo.rbxl
 
 # Packages
 /Packages
